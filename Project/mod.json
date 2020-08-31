@@ -1,7 +1,0 @@
-name: Mod Name
-displayName:[red]Mindustry Space Expansion Pack[]
-author: LiamDonohue
-description: Space
-version: "0.1 Alpha"
-minGameVersion: "100.3"
-dependencies: [ ]
