@@ -1,4 +1,4 @@
-/*name: Orbital Missle Array (Lv 1)
+name: "Orbital Missle Array (Lv 1)"
 type: Mech
 weapon: {
   bullet: {
@@ -8,4 +8,4 @@ weapon: {
 }
 research: Shock Mine
 description: Orbital missile array (Orbital Revenant) 
-*/
+
