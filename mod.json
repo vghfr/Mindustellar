@@ -3,4 +3,5 @@ displayName:"[orange]Mindustry [white]Space Expansion Pack"
 author: "Staticalliam7"
 description: "[blue]Mod that gives tons of space parts"
 version: "0.1 Alpha"
+minGameVersion: "121.4"
 dependencies: [ ]
