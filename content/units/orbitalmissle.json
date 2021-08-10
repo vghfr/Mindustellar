@@ -1,5 +1,5 @@
 name: "Orbital Missle Array (Lv 1)"
-type: Mech
+type: mech
 weapon: {
   bullet: {
     type: MissileBulletType
