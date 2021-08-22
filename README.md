@@ -21,4 +21,9 @@ Mindustry++ adds more tech tree branches and allows the player to extend the cam
 - Groundbreaker: Fires a large beam that can burn and deals a lot of damage.
 - Orbital Strike: Calls in a missle strike to your current location/selected location, however, a array of sattellites are required to use this function
 
+## Infastructure
+### Sattellites
+Sattellites are required to support things like Orbital Strike, Survey Scanners, and Orbital Laser Drill.
 
+### Survey Scanners
+Survey Scanners are used to determine resources on a undiscovered sector, as on the additional planets, these details are not shown.
