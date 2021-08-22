@@ -5,3 +5,4 @@ description: "[blue]Mindustry Overhaul"
 version: "0.1 Alpha"
 minGameVersion: "121.4"
 dependencies: [ ]
+hidden: true
