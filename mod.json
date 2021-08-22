@@ -1,7 +1,7 @@
-name: "[orange]Mindustry [white]Space Expansion Pack"
-displayName:"[orange]Mindustry [white]Space Expansion Pack"
+name: "[orange]Mindustry[white]PlusPlus"
+displayName:"[red]MindustryPlusPls"
 author: "Staticalliam7"
-description: "[blue]Mod that gives tons of space parts"
+description: "[blue]Mindustry Overhaul"
 version: "0.1 Alpha"
 minGameVersion: "121.4"
 dependencies: [ ]
