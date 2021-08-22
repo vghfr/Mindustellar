@@ -1,6 +1,2 @@
-# Mindustry Space Exstension Pack
-- satellites
-- orbital missile arrays 
-- orbital item transports 
-- space duo
-- orbital laser drill
+# MindustryPlusPlus
+A overhaul of the original game, adding tons of unit, 2 more planets, and more resources
