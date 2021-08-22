@@ -13,3 +13,12 @@ Mindustry++ introduces more resources, such as Iron, Uranium, Diamond, and more.
 
 ## Extended Tech Tree and Campaign
 Mindustry++ adds more tech tree branches and allows the player to extend the campaign to other planets after the Interplanetary Launcher block is unlocked.
+
+## New Weapons
+- Cosmonus: Shoots a powerful orb that can deal huge damage on buildings and group enemies.
+- Voldium: Good for air units. Shoots homing laser and explodes on impact.
+- Galactum: Fires a small beams but has a very fast fire rate.
+- Groundbreaker: Fires a large beam that can burn and deals a lot of damage.
+- Orbital Strike: Calls in a missle strike to your current location/selected location, however, a array of sattellites are required to use this function
+
+
