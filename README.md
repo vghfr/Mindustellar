@@ -3,7 +3,7 @@
 
 [![Discord](https://img.shields.io/discord/391020510269669376.svg?logo=discord&logoColor=white&logoWidth=20&labelColor=7289DA&label=Discord&color=17cf48)](https://discord.gg/mindustry)
 
-A overhaul of the original game, adding tons of units, 2 more planets, and more resources
+A overhaul of the original game, adding tons of content and 2 more planets
 
 ## Planets
 Mindustry++ adds 2 more planets: Eutis and Xovis. New resources will be introduced on the planets, resources not avaliable on Seruplo.
