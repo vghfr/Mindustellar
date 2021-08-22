@@ -1,5 +1,5 @@
 # Mindustry++
-***Please note that this mod is still in development and may be broken, missing features, missing sprites, or completely broken***
+***Please note that this mod is still in development and may be broken, missing features, missing sprites, or completely unplayable***
 ![](++v2.png)
 
 [![Discord](https://img.shields.io/discord/391020510269669376.svg?logo=discord&logoColor=white&logoWidth=20&labelColor=7289DA&label=Discord&color=17cf48)](https://discord.gg/mindustry)
