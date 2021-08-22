@@ -6,10 +6,10 @@
     "range": 200,
     "inaccuracy": 8,
     "shots": 1,
-    "targetAir": true,
+    "targetAir": false,
     "targetGround": true,
     "shootCone": 2,
-    "spread": 4,
+    "spread": 8,
     "recoilAmount": 1.5,
     "restitution": 0.04,
     "rotateSpeed": 8,
@@ -17,7 +17,7 @@
     "powerUse": 3,
     "hasPower": true,
     "shootType": {
-        "type": "BasicBulletType",
+        "type": "LaserBulletType",
         "speed": 6,
         "lifetime": 40,
         "homingPower": 0.05,
@@ -36,17 +36,10 @@
             "item": "copper",
             "amount": 70
         },
-        {
-            "item": "lead",
-            "amount": 60
-        },
-        {
-            "item": "uranium",
-            "amount": 40
-        },
+     
         {
             "item": "iron",
-            "amount": 40
+            "amount": 100
         }
     ],
     "category": "turret",
