@@ -27,3 +27,6 @@ Sattellites are required to support things like Orbital Strike, Survey Scanners,
 
 ### Survey Scanners
 Survey Scanners are used to determine resources on a undiscovered sector, as on the additional planets, these details are not shown.
+
+## Possible Content
+- Aircraft Carriers
