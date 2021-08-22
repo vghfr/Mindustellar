@@ -1,0 +1,13 @@
+name: "cosmonus"
+type: LaserTurret
+weapon: {
+  bullet: {
+    type: ContinuousLaserBulletType
+    damage: 9000
+    shootDuration: 100
+    shake: 3.0
+  }
+}
+research: Shock Mine
+description: Shoots a powerful orb that can deal huge damage on buildings and group enemies. 
+
