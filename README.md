@@ -31,3 +31,7 @@ Survey Scanners are used to determine resources on a undiscovered sector, as on 
 
 ## Possible Content
 - Aircraft Carriers
+
+# Credits
+Thanks to @Sh1penfire for help with code syntax 
+Thanks to the Pixelcraft project for the code I borrowed
