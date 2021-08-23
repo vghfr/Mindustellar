@@ -37,13 +37,10 @@
             "amount": 70
         },
      
-        {
-            "item": "iron",
-            "amount": 100
-        }
+    
     ],
     "category": "turret",
-    "research": "shockmine",
+
   "description": "Shoots a powerful orb that can deal huge damage on buildings and group enemies." 
 
 }
