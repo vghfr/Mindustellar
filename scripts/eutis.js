@@ -1,6 +1,6 @@
-const templuraGen = require("extras/templuraGen")
+const templuraGen = require("extras/eutisGen")
 const templura = extend(Planet, "templura", Planets.sun, 3, 1.45, {
-    generator: templuraGen.templura,
+    generator: eutisGen.templura,
     bloom: true,
     radius: 1,
     accessible: true,
