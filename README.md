@@ -1,3 +1,4 @@
+Huge thanks to my tester, Советский лук
 # Mindustry++
 ***Please note that this mod is still in development and may be broken, missing features, missing sprites, or completely unplayable***
 ![](++v2.png)
@@ -34,4 +35,5 @@ Survey Scanners are used to determine resources on a undiscovered sector, as on 
 
 # Credits
 Thanks to @Sh1penfire for help with code syntax 
+
 Thanks to the Pixelcraft project for the code I borrowed
