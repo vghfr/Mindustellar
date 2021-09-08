@@ -28,7 +28,7 @@ Mindustry++ adds more tech tree branches and allows the player to extend the cam
 Sattellites are required to support things like Orbital Strike, Survey Scanners, and Orbital Laser Drill.
 
 ### Survey Scanners
-Survey Scanners are used to determine resources on a undiscovered sector, as on the additional planets, these details are not shown.
+Survey Scanners are used to determine resources on a undiscovered sector, as these details are not shown.
 
 ## Possible Content
 - Aircraft Carriers
