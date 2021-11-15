@@ -1,4 +1,3 @@
-Huge thanks to my tester, Советский лук#6844
 # Mindustry++
 ***Please note that this mod is still in development and may be broken, missing features, missing sprites, or completely unplayable***
 ![](++v2.png)
