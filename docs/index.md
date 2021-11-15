@@ -1,4 +1,4 @@
 # Mindustry++ Player's Guide
 ## Table of contents
-- [Basic Overview of the Mod](/README.md)
+- [Basic Overview of the Mod](./overview.md)
 - [Getting Started](./getting_started.md)
