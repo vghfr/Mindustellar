@@ -6,7 +6,7 @@
 
 A overhaul of the original game, adding tons of content and 2 more planets
 ## Harder campaign.
-This is where the fun begins. A units now must be fueled using **Refueling Stations**. Fuel can be manufactured using oil and a **Fuel refinery**. Spores can be used as an alternate fuel source, at the cost of reduced efficiency
+This is where the fun begins. A units now must be fueled using **Refueling Stations**. Fuel can be manufactured using oil and a **Fuel refinery**. Spores can be used as an alternate fuel source, at the cost of reduced efficiency. Also, harder bosses. All parts now heat to a certain degree, This can be solved by using **Radiator Panels**. Most low-tier blocks can heat safely (at a lower efficiency), however, higher tier blocks can, and will, cause damage to surronding blocks due to overheating.
 
 ## Planets
 Mindustry++ adds 2 more planets: Eutis and Xovis. New resources will be introduced on the planets, resources not avaliable on Seruplo.
