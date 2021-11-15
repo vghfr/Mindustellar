@@ -1,3 +1,4 @@
+
 # Mindustry++
 ***Please note that this mod is still in development and may be broken, missing features, missing sprites, or completely unplayable***
 ![](++v2.png)
@@ -42,3 +43,8 @@ Survey Scanners are used to determine resources on a undiscovered sector, as the
 - **Easy mode.** This mod is designed to add more challenge to the game. If you don't like the difficulty of it, don't play it. 
 - **Recomposing game music.** Honestly, the game's soundtrack is a work of art. Once again, if you really want it, make a mod.
 - **Moons.** I would actually love to do this, however the game currently does not support this. If you can find a workaround, please notify me.
+
+
+
+
+Oh, you read this far? Have a cookie.
