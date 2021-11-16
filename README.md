@@ -3,6 +3,7 @@
 ***Please note that this mod is still in development and may be broken, missing features, missing sprites, or completely unplayable***
 ## Credits:
 Lead Dev: Staticalliam7
+.
 Lead Artist: [Maneki Neko](https://www.pixilart.com/maneki-neko)
 
 ![](++v2.png)
