@@ -1,0 +1,16 @@
+name: Greetings
+
+on: [pull_request, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: 'Hey! I see you are new here. Make sure that you have read the issue requirements before submmiting.'
+        pr-message: 'Cool! You are contributing directly to the code! Might take a while for it to be pushed, as I need to check if it meets the following conditions: A. It is not buggy or malicious code. B. It does something useful, or fixes a bug. '
