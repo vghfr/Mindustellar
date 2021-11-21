@@ -23,27 +23,11 @@ This is where the fun begins. A units now must be fueled using **Refueling Stati
 ## Planets
 Mindustry++ adds 2 more planets: Eutis and Xovis. New resources will be introduced on the planets, resources not avaliable on Seruplo.
 
-## New Resources
-Mindustry++ introduces more resources, such as Iron, Uranium, Diamond, and more. It will also introduce the corresponding factories: Uranium Refinery, Iron Smelter, and Diamond Cutter. Diamonds and Uranium are rare resources and are only found in small patches. Iron is plentiful and is essential to higher tier blocks and units.
 
 ## Extended Tech Tree and Campaign
 Mindustry++ adds more tech tree branches and allows the player to extend the campaign to other planets after the Interplanetary Launcher block is unlocked.
 
-## New Weapons
-- Cosmonus: Shoots a powerful orb that can deal huge damage on buildings and group enemies.
-- Voldium: Good for air units. Shoots homing laser and explodes on impact.
-- Galactum: Fires a small beams but has a very fast fire rate.
-- Groundbreaker: Fires a large beam that can burn and deals a lot of damage.
-- Orbital Strike: Calls in a missle strike to your current location/selected location, however, a array of sattellites are required to use this function
-
-## Infastructure
-### Sattellites
-Sattellites are required to support things like Orbital Strike, Survey Scanners, and Orbital Laser Drill.
-
-### Survey Scanners
-Survey Scanners are used to determine resources on a undiscovered sector, as these details are not shown.
-
-
+## Full documentation will be in wiki
 
 # Features I will NOT be Adding
 - **Anything that is cheaty.** This includes OP turrets. If you want to cheat, there are plenty of mods, such as [Hackdustry](https://github.com/Gdeft/hackdustry)
