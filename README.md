@@ -4,7 +4,7 @@
 
 ## Important for contributors:
 
-- [Features I will not be adding](#Features I will NOT be Adding)
+[Features I will not be adding](#Features I will NOT be Adding)
 
 ## Credits:
 - Lead Dev: Staticalliam7
