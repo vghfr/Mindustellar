@@ -9,8 +9,11 @@
 ## Credits:
 - Lead Dev: Staticalliam7
 
+Artists:
 
-- Lead Artist: [Maneki Neko](https://www.pixilart.com/maneki-neko)
+[Maneki Neko](https://www.pixilart.com/maneki-neko)
+
+[SIGMUS](https://www.pixilart.com/sigmus-vi)
 
 ![](++v2.png)
 
