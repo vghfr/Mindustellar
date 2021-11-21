@@ -1,6 +1,11 @@
 
 # Mindustry++
 ***Please note that this mod is still in development and may be broken, missing features, missing sprites, or completely unplayable***
+
+## Important for contributors:
+
+- [Features I will not be adding](#Features I will NOT be Adding)
+
 ## Credits:
 - Lead Dev: Staticalliam7
 
