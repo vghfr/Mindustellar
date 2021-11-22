@@ -1,0 +1,6 @@
+name: "Cryogenic Kerosene (RP-1)"
+description: "Excellent rocket fuel. Very flammable."
+temperature: 0.1
+viscosity: 2
+effect: burning
+color: AA4A44
