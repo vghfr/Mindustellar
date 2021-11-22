@@ -1,0 +1,6 @@
+name: "Liquid Oxygen (LOX)"
+description: "So turns out if you make oxygen really cold, It's a great oxidizer for rockets. Nice and compact. Good to know. Now, be careful, cause this stuff is extremely flammable. Keep it away from the core."
+temperature: 2
+viscosity: 2
+effect: burning
+color: D3D3D3
