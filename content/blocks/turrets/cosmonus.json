@@ -1,6 +1,6 @@
 {
     "type": "LaserTurret",
-    "size": 6,
+    "size": 4,
     "health": 200,
     "reloadTime": 2,
     "range": 400,
