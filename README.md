@@ -11,13 +11,13 @@
 [Features I will not be adding](README.md#features-i-will-not-be-adding)
 
 ## Credits:
-- Lead Dev: Staticalliam7
-
 Artists:
 
 [Maneki Neko](https://www.pixilart.com/maneki-neko)
 
 [SIGMUS](https://www.pixilart.com/sigmus-vi)
+
+[Lemonart-32](https://www.pixilart.com/lemonart-32)
 
 ![](++v2.png)
 
