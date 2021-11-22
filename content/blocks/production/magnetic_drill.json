@@ -1,4 +1,4 @@
-name: "Magnetic Drill."
+/*name: "Magnetic Drill."
 description: "By utilizing magnetic bearings, the drill shaft can spin at much faster speeds than most drills. Requires a steady supply of fuel. Very big and expensive. Means it's better."
 size: 6
 tier: 5
@@ -16,3 +16,4 @@ requirements: [
 ]
 category: production
 research: iron
+*/
