@@ -1,0 +1,5 @@
+name: "Liquid Nitrogen (LN)"
+description: "Liquid nitrogen. Good stuff. Excellent coolant. Great for making icecream in a pinch"
+temperature: 0.01
+viscosity: 2
+color: 87ceeb
