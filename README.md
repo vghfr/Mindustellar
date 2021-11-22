@@ -3,7 +3,6 @@
 </a>
 
 
-[![Discord](https://img.shields.io/discord/pTxjKE36He)](https://discord.gg/pTxjKE36He)
 # Mindustry++
 ***Please note that this mod is still in development and may be broken, missing features, missing sprites, or completely unplayable***
 
