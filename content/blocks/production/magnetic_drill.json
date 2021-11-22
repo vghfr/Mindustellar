@@ -5,7 +5,7 @@ tier: 5
 drillTime: 275
 consumes: {
   liquid: {
-    liquid: fuel
+    liquid: kerosene
     amount: 0.5
 
   }
