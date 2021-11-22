@@ -1,0 +1,6 @@
+name: "Kerosene"
+description: "Great fuel for units. Don't light a match near this stuff, very flammable. Nice kerosene, please don't hurt me. I have cookies"
+temperature: 1
+viscosity: 1
+effect: burning
+color: 8B0000
