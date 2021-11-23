@@ -129,7 +129,7 @@ const eutisGen = extend(PlanetGenerator, {
 
                 this.connected.add(to);
                 
-                const gend = templuraGenerator;
+                const gend = eutisGen;
                 let nscl = rand.random(20, 60);
                 let stroke = rand.random(4, 12);
                 
@@ -376,7 +376,7 @@ const eutisGen = extend(PlanetGenerator, {
         };
     } 
 });
-templuraGenerator.arr = [   
+eutisGen.arr = [   
     [Blocks.deepwater, Blocks.darksandWater, Blocks.sandWater, Blocks.sand, environment.stormsand, Blocks.sand, Blocks.sand, Blocks.basalt, environment.dryGrass, environment.dryGrass, Blocks.dirt, Blocks.dirt, Blocks.stone],
     [Blocks.deepwater, Blocks.water, Blocks.sandWater, Blocks.sand, Blocks.sand, Blocks.sand, Blocks.metalFloorDamaged, Blocks.dacite, Blocks.dirt, Blocks.dirt, Blocks.mud, Blocks.dirt, Blocks.mud],
     [Blocks.deepwater, Blocks.sandWater, Blocks.sand, Blocks.sand, environment.stormsand, environment.stormsand, Blocks.dirt, Blocks.basalt, Blocks.basalt, Blocks.basalt, Blocks.mud, Blocks.dirt, Blocks.mud],
