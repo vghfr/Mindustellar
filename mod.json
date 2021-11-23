@@ -1,8 +1,10 @@
-name: "[orange]Mindustry[white]PlusPlus"
-displayName:"[red]MindustryPlusPls"
-author: "Staticalliam7"
-description: "[blue]Mindustry Overhaul"
-version: "0.1 Alpha"
-minGameVersion: "121.4"
-dependencies: [ ]
-hidden: true
+{
+    // Internal name shouldn't have colors.
+    "name": "mindustry-plus-plus",
+    "displayName": "[red]MindustryPlusPlus",
+    "author": "Staticalliam7",
+    "description": "[blue]Mindustry Overhaul",
+    "version": "0.1 Alpha",
+    "minGameVersion": 121.4,
+    "hidden": true
+}

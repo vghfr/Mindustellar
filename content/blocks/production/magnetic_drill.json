@@ -6,13 +6,13 @@
 //consumes: {
  // liquid: {
     //liquid: kerosene
-    /:amount: 0.5
+    //:amount: 0.5
 
  // }
  //power: 0.5
 //}
 //requirements: [
-  iron: 500
+  //iron: 500
 //]
 //category: production
 //research: iron

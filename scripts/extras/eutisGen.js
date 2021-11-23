@@ -1,9 +1,10 @@
+// These don't exist yet.
 const environment = require("blocks/environment");
 const weathers = require("extras/weathers");
 const pWaves = require("units/pWaves");
 
 //note: GOtten from substructure and ever since, I'm trying to learn how it works. Untill then, I'll extend off serpulo gen.
-const templuraGenerator = extend(PlanetGenerator, {
+const eutisGen = extend(PlanetGenerator, {
     noiseOct(x, y, octaves, falloff, scl){
         let v = this.sector.rect.project(x, y).scl(7);
         return this.noise.octaveNoise3D(octaves, falloff, 1 / scl, v.x, v.y, v.z);
@@ -128,7 +129,7 @@ const templuraGenerator = extend(PlanetGenerator, {
 
                 this.connected.add(to);
                 
-                const gend = templuraGenerator;
+                const gend = eutisGen;
                 let nscl = rand.random(20, 60);
                 let stroke = rand.random(4, 12);
                 
@@ -375,7 +376,7 @@ const templuraGenerator = extend(PlanetGenerator, {
         };
     } 
 });
-templuraGenerator.arr = [   
+eutisGen.arr = [   
     [Blocks.deepwater, Blocks.darksandWater, Blocks.sandWater, Blocks.sand, environment.stormsand, Blocks.sand, Blocks.sand, Blocks.basalt, environment.dryGrass, environment.dryGrass, Blocks.dirt, Blocks.dirt, Blocks.stone],
     [Blocks.deepwater, Blocks.water, Blocks.sandWater, Blocks.sand, Blocks.sand, Blocks.sand, Blocks.metalFloorDamaged, Blocks.dacite, Blocks.dirt, Blocks.dirt, Blocks.mud, Blocks.dirt, Blocks.mud],
     [Blocks.deepwater, Blocks.sandWater, Blocks.sand, Blocks.sand, environment.stormsand, environment.stormsand, Blocks.dirt, Blocks.basalt, Blocks.basalt, Blocks.basalt, Blocks.mud, Blocks.dirt, Blocks.mud],
@@ -392,12 +393,12 @@ templuraGenerator.arr = [
     [Blocks.sandWater, Blocks.darksandWater, Blocks.darksand, environment.dryGrass, environment.stormsand, environment.stormsand, Blocks.stone, Blocks.sand, Blocks.sand, Blocks.darksandTaintedWater, Blocks.stone, Blocks.stone, Blocks.stone],
     [Blocks.water, Blocks.sandWater, environment.stormsand, environment.dryGrass, environment.stormsand, environment.dryGrass, Blocks.sand, Blocks.stone, Blocks.stone, Blocks.stone, Blocks.dirt, Blocks.dacite, Blocks.mud]
 ];
-templuraGenerator.rid = new Packages.arc.util.noise.RidgedPerlin(1, 2);
-templuraGenerator.basegen = new BaseGenerator();
-templuraGenerator.scl = 8;
-templuraGenerator.waterOffset = 0.07;
-templuraGenerator.water = 2 / templuraGenerator.arr[0].length;
+eutisGen.rid = new Packages.arc.util.noise.RidgedPerlin(1, 2);
+eutisGen.basegen = new BaseGenerator();
+eutisGen.scl = 8;
+eutisGen.waterOffset = 0.07;
+eutisGen.water = 2 / eutisGen.arr[0].length;
 
 module.exports = {
-    templura: templuraGenerator
+    eutis: eutisGen
 };

@@ -1,9 +1,11 @@
-name: "iron"
-description: "We seem to have found large deposits of iron ore on Eutis. Maybe that's why its so red..."
-details: "Useful resource for high-tier construction"
-hardness: 0.1
-cost: 0.25
-color:  7b7f8e
-lowPriority: true 
-alwaysUnlocked: true
-research: mass-driver
+{
+    "name": "iron",
+    "description": "We seem to have found large deposits of iron ore on Eutis. Maybe that's why its so red...",
+    "details": "Useful resource for high-tier construction",
+    "hardness": 0.1,
+    "cost": 0.25,
+    "color": "7b7f8e",
+    "lowPriority": true ,
+    "alwaysUnlocked": true,
+    "research": "mass-driver"
+}
