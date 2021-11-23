@@ -1,6 +1,10 @@
-name: "Cryogenic Kerosene (RP-1)"
-description: "Excellent rocket fuel. Very flammable."
-temperature: 0.1
-viscosity: 2
-effect: burning
-color: AA4A44
+{
+    // internal name shouldn't have special characters.
+    "name": "cryo-kerosene",
+    "localizedName": "Cryogenic Kerosene (RP-1)",
+    "description": "Excellent rocket fuel. Very flammable.",
+    "temperature": 0.1,
+    "viscosity": 2,
+    "effect": "burning",
+    "color": "AA4A44"
+}

@@ -34,12 +34,12 @@
     "requirements": [
         {
             "item": "metaglass",
-            "amount": 100,
+            "amount": 100
+        },
+        {
             "item": "thorium",
             "amount": 50
-        },
-     
-    
+        }
     ],
     "category": "turret",
 

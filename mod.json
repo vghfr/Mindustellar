@@ -1,4 +1,5 @@
 {
+    // Internal name shouldn't have colors.
     "name": "mindustry-plus-plus",
     "displayName": "[red]MindustryPlusPlus",
     "author": "Staticalliam7",
