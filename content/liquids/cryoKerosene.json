@@ -1,5 +1,5 @@
 {
-    // internal name shouldn't have special characters.
+    // internal name shouldn't have special characters, and formatted in lower-kebab-case.
     "name": "cryo-kerosene",
     "localizedName": "Cryogenic Kerosene (RP-1)",
     "description": "Excellent rocket fuel. Very flammable.",
