@@ -2,7 +2,7 @@
   <img src="https://contrib.rocks/image?repo=staticalliam7/mindustryplusplus" />
 </a>
 
-![](https://img.shields.io/discord/879326189183975445)
+![Discord](https://img.shields.io/discord/879326189183975445)
 
 # Mindustry++
 ***Please note that this mod is still in development and may be broken, missing features, missing sprites, or completely unplayable***
