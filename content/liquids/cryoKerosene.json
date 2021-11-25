@@ -5,6 +5,7 @@
     "description": "Excellent rocket fuel. Very flammable.",
     "temperature": 0.1,
     "viscosity": 2,
+    "flammability": 100,
     "effect": "burning",
     "color": "AA4A44"
 }
