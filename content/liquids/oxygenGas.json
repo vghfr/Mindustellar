@@ -1,5 +1,6 @@
 {
     "name": "oxygen",
+    "localizedName":"Oxygen"
     "description": "The boys down in R&D found out how to harness the gas in the atmosphere. They should have figured this out earlier, we're literally traveling to other planets, and we can't get gas from the atmosphere?\nPathetic. They're not getting a raise anytime soon. Now just to figure out what it does...",
     "flammability": 50,
     "temperature": 0.5,
