@@ -12,6 +12,9 @@
 [Features I will not be adding](README.md#features-i-will-not-be-adding)
 
 ## Credits:
+
+Mindustry & Open source community
+
 Artists:
 
 [Maneki Neko](https://www.pixilart.com/maneki-neko)
