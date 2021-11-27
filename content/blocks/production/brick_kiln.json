@@ -1,0 +1,23 @@
+
+{
+	"localizedName": "Brick Kiln",
+	"description": "Makes bricks. What else can I say?",
+	"outputItem": {"Item": "brick", "amount": 2},
+	"size": 2,
+	"hasPower": true,
+	"hasItems": true,
+	"craftTime": 110,
+	"consumes": {
+		"power": 1,
+		"liquid": {
+			"liquid": "water",
+			"amount": 0.25
+		}
+	},
+	"requirements": [
+		{ "item": "clay", "amount": 40 },
+		{ "item": "coal", "amount": 20 },
+	],
+	"category": "crafting",
+	"research": "kiln"
+}
