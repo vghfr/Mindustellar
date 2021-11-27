@@ -1,0 +1,7 @@
+{
+    "name": "iron",
+    "description": "Bricks. We have some use for it, I'm just not sure what. INTERN! What do we use bricks for?!",
+    "hardness": 0.5,
+    "lowPriority": true ,
+    "research": "iron"
+}
