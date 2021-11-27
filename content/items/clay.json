@@ -1,0 +1,8 @@
+{
+    "name": "clay",
+    "description": "A clump of clay. Used for making big dumb bricks.",
+    "hardness": 0.01,
+    "cost": 0.1,
+    "color": "7b7f8e",
+    "research": "iron"
+}
