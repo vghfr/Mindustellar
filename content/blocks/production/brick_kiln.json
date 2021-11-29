@@ -3,7 +3,7 @@
 	"localizedName": "Brick Kiln",
 	"description": "Makes bricks. What else can I say?",
 	"outputItem": {"Item": "brick", "amount": 2},
-	"size": 2,
+	"size": 1,
 	"hasPower": true,
 	"hasItems": true,
 	"craftTime": 110,
