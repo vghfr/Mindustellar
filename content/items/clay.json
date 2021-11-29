@@ -4,5 +4,5 @@
     "hardness": 0.01,
     "cost": 0.1,
     "color": "7b7f8e",
-    "research": "raw-iron"
+    "research": "raw_iron"
 }
