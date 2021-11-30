@@ -1,6 +1,6 @@
 {
     "name": "clay",
-    "description": "A clump of clay. Used for making big dumb bricks.",
+    "description": "A clump of clay. Used for making big dumb bricks. Not to be mistaken with soil.",
     "hardness": 0.01,
     "cost": 0.1,
     "color": "7b7f8e",
