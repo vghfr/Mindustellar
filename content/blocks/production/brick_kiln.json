@@ -1,9 +1,10 @@
 
 {
+	"name":"brick_kiln"
 	"localizedName": "Brick Kiln",
-	"description": "Makes bricks. What else can I say?",
-	"outputItem": {"Item": "brick", "amount": 2},
-	"size": 1,
+	"description": "Makes big dumb bricks. What else can I say?",
+	"outputItem": {"item": "brick", "amount": 2},
+	"size": 4,
 	"hasPower": true,
 	"hasItems": true,
 	"craftTime": 110,
