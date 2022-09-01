@@ -4,7 +4,7 @@
 
 ![](https://img.shields.io/discord/879326189183975445?style=for-the-badge) ![](https://img.shields.io/github/languages/top/staticalliam7/mindustryplusplus?style=for-the-badge) ![](https://img.shields.io/github/issues/staticalliam7/mindustryplusplus?style=for-the-badge) ![](https://img.shields.io/github/issues-pr/staticalliam7/mindustryplusplus?style=for-the-badge) ![](https://img.shields.io/github/issues-closed-raw/staticalliam7/mindustryplusplus?style=for-the-badge) ![](https://img.shields.io/github/issues-pr-closed-raw/staticalliam7/mindustryplusplus?style=for-the-badge) ![](https://img.shields.io/github/labels/staticalliam7/mindustryplusplus/help%20wanted?style=for-the-badge) ![](https://img.shields.io/github/license/staticalliam7/mindustryplusplus?style=for-the-badge) ![](https://img.shields.io/github/forks/staticalliam7/mindustryplusplus?style=for-the-badge) ![](https://img.shields.io/github/stars/staticalliam7/mindustryplusplus?style=for-the-badge) ![](https://img.shields.io/github/v/release/staticalliam7/mindustryplusplus?include_prereleases&style=for-the-badge) ![](https://img.shields.io/github/commit-activity/m/staticalliam7/mindustryplusplus/master?style=for-the-badge)
 
-# Mindustry++
+# Mindustellar
 ***Please note that this mod is still in development and may be broken, missing features, missing sprites, or completely unplayable***
 
 ## Important for contributors:
@@ -27,7 +27,6 @@ Artists:
 
 
 
-A overhaul of the original game, adding tons of content and 2 more planets
 ## Harder campaign.
 This is where the fun begins. All units now must be fueled using **Refueling Stations**. Fuel can be manufactured using oil and a **Fuel refinery**. Spores can be used as an alternate fuel source, at the cost of reduced efficiency. Also, harder bosses. All parts now heat to a certain degree, This can be solved by using **Radiator Panels**. Most low-tier blocks can heat safely (at a lower efficiency), however, higher tier blocks can, and will, cause damage to surronding blocks due to overheating.
 
